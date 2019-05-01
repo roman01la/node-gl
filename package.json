@@ -1,0 +1,13 @@
+{
+  "name": "node-gl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.4.0",
+    "nan": "^2.12.1",
+    "react": "^16.8.2",
+    "react-reconciler": "^0.20.0"
+  }
+}
